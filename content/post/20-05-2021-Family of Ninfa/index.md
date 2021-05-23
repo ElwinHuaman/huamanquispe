@@ -3,6 +3,10 @@ title: Discover the true Quechua Culture staying with us
 date: 2021-05-23
 authors:
 - Elwin Huaman
+
+image:
+  caption: Photo by Elwin
+  focal_point: Smart
 ---
 
 Explore our culture through alpacas, potatoes, quinoa and so on by staying with us in a beautiful Quechua community.
