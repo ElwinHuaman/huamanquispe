@@ -6,8 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
+title: "What is Huaman Quispe?"
+subtitle: "LIVE THE TRUE QUECHUA TRADITIONS"
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Huaman Quispe is a Quechua family that has developed a sustainable farm, which provides activities designed and led by our Quechua family. We go beyond typical tourism by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about our culture, traditions, or expertise without barriers.
