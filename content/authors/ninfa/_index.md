@@ -77,4 +77,14 @@ user_groups:
 Ninfa Quispe studied B.Sc. in Chemical Engineering (not finished) from the [University of Altiplano, Puno](https://portal.unap.edu.pe/). Her main interests are helping people, communities, particulary on empowering women, helping them to develop their skills and fighting for their rights.
 
 He runs the [Huaman Quispe Sustainable Farm](https://quechuaexperience.github.io/) project, which is a sustainable farm that preserves as much as possible all quechua knowledge, traditions, cultural ceremonies, and more.
+<blockquote>
+<p>"Siempre debemos compartir con los que menos saben y tienen, eso es bueno, nos hace más humanos y nos llena de salud porque nuestro corazón se alegra." (Ninfa Quispe)</p>
+</blockquote>
+
+<blockquote>
+<p>"We must always share with people who have less than us, that is good, it makes us more human and our heart rejoices." (Ninfa Quispe)</p>
+</blockquote>
+
+<p>See more in [Heifer Peru](http://www.heiferperu.org/index.php/es/historias-de-vida/item/42-ninfa-quispe-condori-ensenando-a-creer)<abbr title="Hypertext Markup Language">Heifer.</abbr></p>
+                            
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
