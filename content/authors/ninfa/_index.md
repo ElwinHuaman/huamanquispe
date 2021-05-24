@@ -71,7 +71,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Children
+- Parents
 ---
 
 Ninfa Quispe studied B.Sc. in Chemical Engineering (not finished) from the [University of Altiplano, Puno](https://portal.unap.edu.pe/). Her main interests are helping people, communities, particulary on empowering women, helping them to develop their skills and fighting for their rights.
