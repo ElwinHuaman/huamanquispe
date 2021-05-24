@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Huaman Quispe Sustainable Farm
+title: Quechua Traditions
 hero_media: welcome.jpg
 cta:
   label: '**Donate**'
@@ -28,6 +28,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**is a Quechua family that has developed a sustainable farm, which provides activities designed and led by our Quechua family.**
+**We developed a sustainable farm, which provides activities designed and led by our Quechua family.**
 
-**We go beyond typical tourism** by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about our culture, traditions, or expertise without barriers.
+**We go beyond typical tourism** by immersing guests in true Quechua traditions, culture and expertise without barriers.

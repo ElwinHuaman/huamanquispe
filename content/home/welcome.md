@@ -1,4 +1,4 @@
----
+<!-- ---
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Huaman Quispe is a Quechua family that has developed a sustainable farm, which provides activities designed and led by our Quechua family. We go beyond typical tourism by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about our culture, traditions, or expertise without barriers.
+Huaman Quispe is a Quechua family that has developed a sustainable farm, which provides activities designed and led by our Quechua family. We go beyond typical tourism by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about our culture, traditions, or expertise without barriers. -->
