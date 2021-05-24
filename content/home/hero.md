@@ -12,30 +12,11 @@ cta_alt:
   url: mailto:elwin.huaman@hotmail.com
 cta_note:
   label: >- 
-    <ul class="hero-info d-none d-lg-block">
-      <li>
-        <img src="img/banner/alpaca-icon.png" alt="">
-        <h4><div data-translate="true-traditions">Inca traditions</div></h4>
-        <p></p><div data-translate="mil-families">+120K families</div><p></p>
-      </li>
-      <li>
-        <img src="img/banner/inca-icon.png" alt="">
-        <h4><div data-translate="live-culture">Live Culture</div></h4>
-        <p></p><div data-translate="inca-tradition">Inca Tradition</div><p></p>
-      </li>
-      <li>
-        <img src="img/banner/south-america-icon.png" alt="">
-        <h4><div data-translate="south-america">South America</div></h4>
-        <p></p><div data-translate="four-countries">+4 countries</div><p></p>
-      </li>
-    </ul>   
-    <a class="js-github-release" href="#" >TRUE QUECHUA TRADITIONS AWAITS YOU<!-- V --></a>
-    <div style="text-shadow: none;"><a class="github-button" href="#" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Quechua Traditions</a></div>
-    <div style="text-shadow: none;"><a class="github-button" href="#" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+
 design:
   background:
     image: coders.jpg
-    image_darken: 0
+    image_darken: 50
     image_parallax: false
     image_position: center
     image_size: cover
