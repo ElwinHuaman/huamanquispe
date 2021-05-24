@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Huaman Quispe Sustainable Farm
-hero_media: coders.jpg
+hero_media: welcome.jpg
 cta:
   label: '**Donate**'
   url: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KHPEQU9LS9CGW&source=url
@@ -28,6 +28,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**HUAMAN QUISPE, Quechua-based open source website builder and template trusted by 500,000+ sites.**
+**is a Quechua family that has developed a sustainable farm, which provides activities designed and led by our Quechua family.**
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+**We go beyond typical tourism** by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about our culture, traditions, or expertise without barriers.
