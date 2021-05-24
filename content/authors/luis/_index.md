@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ninfa Quispe
+title: Luis Huaman
 
 # Username (this should match the folder name)
 authors:
-- ninfa
+- luis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: B.Sc. Chemical Engineering (NF)
+role: Dr. Veterinary Zootechnician
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Ninfa Quispe, I was a volunteer literacy promoter in seven of the most remote communities in Nuñoa (Huanacopampa, Padrepunco, América, Cauchiri, Ticuyo, Pilcocota and Orccorarapampa).
+bio: I am Luis Huaman, I worked with quechua communities helping them to develop their Alpaca herds in in the highlands of Puno, Peru.
 
 interests:
+- Singer
+- Researcher
 - Entrepreneur
 - Quechua Community
 - Sustainable Development
 
 education:
   courses:
-  - course: BSc in Chemical Engineering (NF) 
+  - course: Dr. in Veterinary Zootechnician 
     institution: National University of Altiplano, Peru
     year: 
 
@@ -74,17 +76,11 @@ user_groups:
 - Parents
 ---
 
-Ninfa Quispe studied B.Sc. in Chemical Engineering (not finished) from the [University of Altiplano, Puno](https://portal.unap.edu.pe/). Her main interests are helping people, communities, particulary on empowering women, helping them to develop their skills and fighting for their rights.
+Luis Huaman studied Veterinary Zootechnician at the [University of Altiplano, Puno](https://portal.unap.edu.pe/). His main interests are helping people, communities, particulary to Alpaca breeders, empowering them, helping them to develop their skills and fighting for their rights.
 
 He runs the [Huaman Quispe Sustainable Farm](https://quechuaexperience.github.io/) project, which is a sustainable farm that preserves as much as possible all quechua knowledge, traditions, cultural ceremonies, and more.
-<blockquote>
-<p>"Siempre debemos compartir con los que menos saben y tienen, eso es bueno, nos hace más humanos y nos llena de salud porque nuestro corazón se alegra." (Ninfa Quispe)</p>
-</blockquote>
 
-<blockquote>
-<p>"We must always share with people who have less than us, that is good, it makes us more human and our heart rejoices." (Ninfa Quispe)</p>
-</blockquote>
+He played and launched various album, listen them in [Spotify](https://open.spotify.com/artist/4eROXlptBLFnGoqWArvjQA)
 
-<p>See more in <a href="http://www.heiferperu.org/index.php/es/historias-de-vida/item/42-ninfa-quispe-condori-ensenando-a-creer">Heifer Peru</a></p>
-                            
+<iframe src="https://open.spotify.com/embed/artist/4eROXlptBLFnGoqWArvjQA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>                  
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
