@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 6
+  view: 5
   columns: "1"
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
