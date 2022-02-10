@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 11
-title: Quechua Traditions
+title: Huaman Quispe
 hero_media: welcome.jpg
 cta:
   label: '**Donate**'
