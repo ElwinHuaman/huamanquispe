@@ -26,7 +26,13 @@ interests:
 - Food Security
 - Digital Literacy
 
-education:
+interests:
+- Cultural Revitalisation
+- Empowering Women
+- Food Security
+- Digital Literacy
+
+challenges:
   courses:
   - course: BSc in Human Nutrition 
     institution: National University of Altiplano, Peru
