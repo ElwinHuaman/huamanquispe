@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 11
 title: Quechua Traditions
 hero_media: welcome.jpg
 cta:
