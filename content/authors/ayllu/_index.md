@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Instead of imposing what the Quechua communities should learn, we ask them what they would like to learn or improve.
-We then prepare workshops focused on the topics they want to address and invite experts in the field to travel to the communities and share their knowledge.
+bio: Instead of imposing what the Quechua communities should learn, we ask them what they would like to learn or improve. We then prepare workshops focused on the topics they want to address and invite experts in the field to travel to the communities and share their knowledge.
 
 interests:
 - Cultural Revitalisation
