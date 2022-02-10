@@ -78,7 +78,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Children
 ---
 
 Elwin Huaman is a research assistant at the [University of Innsbruck](http://uibk.ac.at/). His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
