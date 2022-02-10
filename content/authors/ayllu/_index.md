@@ -14,7 +14,7 @@ role: Making it happen!
 
 # Organizations/Affiliations
 organizations:
-- name: Nuñoa, Puno, Peru
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,21 +22,9 @@ bio: Instead of imposing what the Quechua communities should learn, we ask them 
 
 interests:
 - Cultural Revitalisation
-- Empowering Women
-- Food Security
 - Digital Literacy
-
-interests:
-- Cultural Revitalisation
 - Empowering Women
-- Food Security
-- Digital Literacy
-
-challenges:
-  courses:
-  - course: BSc in Human Nutrition 
-    institution: National University of Altiplano, Peru
-    year: 2014
+- Food Security 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -80,3 +68,5 @@ user_groups:
 - Researchers
 ---
 Instead of imposing what the Quechua communities should learn, we ask them what they would like to learn or improve. We then prepare workshops focused on the topics they want to address and invite experts in the field to travel to the communities and share their knowledge.
+
+Would you dare? [Read more](#)
