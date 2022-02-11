@@ -22,19 +22,19 @@
 
 [[main]]
   name = "Team"
-  url = "team/team/"
+  url = "team/team.md"
   parent = "about-us"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "projects"
+  url = "project"
   weight = 30
 
 [[main]]
   name = "News"
   identifier = "blog-news"
-  url = "post"
+  url = ""
   weight = 40
 
 [[main]]
