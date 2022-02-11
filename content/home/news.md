@@ -4,10 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest Events
+title: Recent & Upcoming Events
 subtitle:
 
 content:
+  page_type: event
   count: 5
   filters:
     author: ""
@@ -16,9 +17,7 @@ content:
     publication_type: ""
     tag: ""
   offset: 0
-  order: desc
-  page_type: post
+  order: desc  
 design:
-  view: 5
-  columns: "2"
+  view: 2
 ---
