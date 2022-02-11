@@ -9,8 +9,21 @@
   weight = 10
 
 [[main]]
+  name = "About Us"
+  url = ""
+  identifier = "about-us"
+  weight = 15
+
+[[main]]
+  name = "History"
+  url = "team/history"
+  parent = "about-us"
+  weight = 20
+
+[[main]]
   name = "Team"
-  url = "team"
+  url = "team/team"
+  parent = "about-us"
   weight = 20
 
 [[main]]
