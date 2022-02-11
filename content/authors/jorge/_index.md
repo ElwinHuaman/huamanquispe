@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jorge L. Huaman
+title: Jorge Huaman
 
 # Username (this should match the folder name)
 authors:
