@@ -13,8 +13,8 @@ superuser: false
 role: Making it happen!
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
