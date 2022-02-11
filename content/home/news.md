@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest Projects
+title: Latest Events
 subtitle:
 
 content:
@@ -20,5 +20,5 @@ content:
   page_type: post
 design:
   view: 5
-  columns: "1"
+  columns: "2"
 ---
