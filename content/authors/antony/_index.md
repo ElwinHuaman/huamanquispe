@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Jorge L. Huaman
+title: Antony
 
 # Username (this should match the folder name)
 authors:
-- jorge
+- antony
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: B.Sc. Informatics
+role: Tech Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Altiplano, Puno
+- name: National School of Nuñoa, Puno
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BSc in Informatics 
-    institution: National University of Altiplano, Peru
-    year: 2022
+  - course: Enthusiast in Informatics 
+    institution: ""
+    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +71,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Children
+- Grandchildren
 ---
 
 Jorge Huaman is a B.Sc. in Informatics from the [University of Altiplano, Puno](https://portal.unap.edu.pe/). His main interests are helping communities, particulary rural and minority communities, on digital literacy.
