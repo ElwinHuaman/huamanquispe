@@ -10,21 +10,21 @@
 
 [[main]]
   name = "About Us"
-  url = ""
+  url = "us"
   identifier = "about-us"
   weight = 15
 
 [[main]]
   name = "History"
-  url = "team/history/"
+  url = "us/history/"
   parent = "about-us"
   weight = 20
 
 [[main]]
   name = "Team"
-  url = "team"
+  url = "us/team"
   parent = "about-us"
-  weight = 20
+  weight = 25
 
 [[main]]
   name = "Projects"
