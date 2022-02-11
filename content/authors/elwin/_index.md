@@ -6,7 +6,7 @@ title: Elwin Huaman
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: M.Sc. Web Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested on knowledge graphs, semantic web technologies, and their applications.
+bio: I am interested on knowledge graphs, semantic web technologies, quechua language, and their applications.
 
 interests:
 - Knowledge Graphs
