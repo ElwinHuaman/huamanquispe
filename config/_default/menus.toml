@@ -16,7 +16,7 @@
 
 [[main]]
   name = "History"
-  url = "us/history/"
+  url = "us/history"
   parent = "about-us"
   weight = 20
 
@@ -28,8 +28,39 @@
 
 [[main]]
   name = "Projects"
+  identifier = "projects"
   url = "project"
   weight = 30
+
+[[main]]
+  name = "2018 Quechua Experience"
+  parent = "projects"
+  url = "project/QuechuaExperience"
+  weight = 31
+
+[[main]]
+  name = "2019 KIPU"
+  parent = "projects"
+  url = "project/KIPU"
+  weight = 32
+
+[[main]]
+  name = "2020 QUIPU"
+  parent = "projects"
+  url = "project/QUIPU"
+  weight = 33
+
+[[main]]
+  name = "2021 Quechua Wikipidiya"
+  parent = "projects"
+  url = "project/QuechuaWikipedia"
+  weight = 34
+
+[[main]]
+  name = "2022 Warmikunarayku"
+  parent = "projects"
+  url = "project/Warmikunarayku"
+  weight = 35
 
 [[main]]
   name = "News"
