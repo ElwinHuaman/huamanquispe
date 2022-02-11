@@ -21,8 +21,14 @@
 [[main]]
   name = "News"
   identifier = "blog-news"
-  url = "posts"
+  url = "post"
   weight = 40
+
+[[main]]
+  name = "Blog"
+  url = "post"
+  parent = "blog-news"
+  weight = 30
 
 [[main]]
   name = "Events"
