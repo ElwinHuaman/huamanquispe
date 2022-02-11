@@ -67,10 +67,8 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Instead of imposing what the Quechua communities should {{< icon name="graduation-cap" pack="fas" >}} learn, we ask them what they would like to learn or improve {{< icon name="comments-question-check" pack="fas" >}}. We then prepare workshops focused on the topics they want to address {{< icon name="thumbs-up" pack="fas" >}} and invite {{< icon name="address-card" pack="fas" >}} experts in the field to {{< icon name="person-hiking" pack="fas" >}} travel to the communities {{< icon name="image-landscape" pack="fas" >}} and share their knowledge {{< icon name="hand-holding-seedling" pack="fas" >}}.
+Instead of imposing what the Quechua communities should {{< icon name="graduation-cap" pack="fas" >}} learn, we ask them what they would like to learn or improve {{< icon name="comments-question-check" pack="fas" >}}. We then prepare workshops focused on the topics they want to address {{< icon name="thumbs-up" pack="fas" >}} and invite {{< icon name="address-card" pack="fas" >}} experts in the field to :mountain_bicyclist: travel to the communities {{< icon name="image-landscape" pack="fas" >}} and share their knowledge {{< icon name="hand-holding-seedling" pack="fas" >}}.
 
 Should we make it?
 
-{{< icon name="hands-holding-heart" pack="fas" >}} **Donate** or _[ask a question](mailto:elwin.huaman@hotmail.com)_
-
-{{< cta cta_text="Donate" cta_link="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KHPEQU9LS9CGW&source=url" cta_new_tab="true" >}} or {{< icon name="paper-plan" pack="fas" >}} [ask a question](mailto:elwin.huaman@hotmail.com).
+{{< icon name="hands-holding-heart" pack="fa" >}} **Donate** or _[ask a question](mailto:elwin.huaman@hotmail.com)_ {{< icon name="envelope" pack="fas" >}}.
