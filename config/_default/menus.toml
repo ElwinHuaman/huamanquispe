@@ -16,13 +16,13 @@
 
 [[main]]
   name = "History"
-  url = "team/history"
+  url = "team/history.md"
   parent = "about-us"
   weight = 20
 
 [[main]]
   name = "Team"
-  url = "team/team"
+  url = "team/team/"
   parent = "about-us"
   weight = 20
 
