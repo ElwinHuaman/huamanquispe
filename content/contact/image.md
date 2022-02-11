@@ -13,7 +13,7 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: contact.jpg
     image_darken: 0
@@ -23,6 +23,4 @@ design:
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
 ---
