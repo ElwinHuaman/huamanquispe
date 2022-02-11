@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Team"
-  url = "team/team.md"
+  url = "team"
   parent = "about-us"
   weight = 20
 
