@@ -67,8 +67,8 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Instead of imposing what the Quechua communities should {{< icon name="graduation-cap" pack="fas" >}} learn, we ask them what they would like to learn or improve :white_check_mark:. We then prepare workshops focused on the topics they want to address {{< icon name="thumbs-up" pack="fas" >}} and invite {{< icon name="address-card" pack="fas" >}} experts in the field to :mountain_bicyclist: travel to the communities :sunrise_over_mountains: and share their knowledge {{< icon name="hand-holding-seedling" pack="fas" >}}.
+Instead of imposing what the Quechua communities should {{< icon name="graduation-cap" pack="fas" >}} learn, we ask them what they would like to learn or improve :white_check_mark:. We then prepare workshops focused on the topics they want to address {{< icon name="thumbs-up" pack="fas" >}} and invite {{< icon name="address-card" pack="fas" >}} experts in the field to :mountain_bicyclist: travel to the communities :sunrise_over_mountains: and share their knowledge :recycle:.
 
-Should we make it?
+## Should we make it?
 
 **[:green_heart: Donate](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KHPEQU9LS9CGW&source=url)** or _[ask a question {{< icon name="envelope" pack="fas" >}}](mailto:elwin.huaman@hotmail.com)_ .
