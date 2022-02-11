@@ -14,7 +14,7 @@ role: Making it happen!
 
 # Status emoji
 status:
-  icon: :green_heart:
+  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
