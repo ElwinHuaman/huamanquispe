@@ -16,7 +16,7 @@
 
 [[main]]
   name = "History"
-  url = "team/history.md"
+  url = "team/history"
   parent = "about-us"
   weight = 20
 
