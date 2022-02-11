@@ -34,5 +34,5 @@ projects:
 
 Quechua has been spoken in various countries of South America since the Inca empire was founded (i.e. more than 600 years ago). Nowadays, more than 12 million people speak Quechua around the world and the recent census in Peru has shown an increasing 0.4% in favor of Quechua speakers.
 
-With **Quechua Wikipedia** we are trying to preserve our knowledge in a written form, so [Qichwa Wikipidiya](https://qu.wikipedia.org/) help us to preserve as much as possible all the Quechua knowledge in a semistructured format. It might hellp to save our culture and bring equality right to indigenous communities.
+With **Quechua Wikipedia** we are trying to preserve our knowledge in a written form, so [Qichwa Wikipidiya](https://qu.wikipedia.org/) might help us to preserve as much as possible all the Quechua knowledge in a semistructured format, to save our culture, and bring equality right to indigenous communities.
 
