@@ -18,7 +18,7 @@ role: Making it happen!
 
 # Organizations/Affiliations
 organizations:
-- name: '<div id="google_translate_element"></div>'
+- name: {{<div id="google_translate_element"></div>}}
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,4 +77,4 @@ Instead of imposing what the Quechua communities should {{< icon name="graduatio
 
 **[:green_heart: Donate](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KHPEQU9LS9CGW&source=url)** or _[ask a question {{< icon name="envelope" pack="fas" >}}](mailto:elwin.huaman@hotmail.com)_ .
 
-<div id="google_translate_element"></div>
+<!-- <div id="google_translate_element"></div> -->
