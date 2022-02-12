@@ -76,3 +76,5 @@ Instead of imposing what the Quechua communities should {{< icon name="graduatio
 ## Help us continue to do so!
 
 **[:green_heart: Donate](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KHPEQU9LS9CGW&source=url)** or _[ask a question {{< icon name="envelope" pack="fas" >}}](mailto:elwin.huaman@hotmail.com)_ .
+
+{{<div id="google_translate_element"></div>}}
