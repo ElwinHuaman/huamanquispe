@@ -11,4 +11,7 @@ view: 2
 header:
   caption: ""
   image: ""
+
+design:
+  columns: '2'
 ---
