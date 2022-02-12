@@ -18,7 +18,7 @@ role: Making it happen!
 
 # Organizations/Affiliations
 organizations:
-- name: {{<div id="google_translate_element"></div>}}
+- name: {{'<div id="google_translate_element"></div>'}}
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
