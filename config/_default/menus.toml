@@ -76,7 +76,7 @@
 
 [[main]]
   name = "Events"
-  url = "talk"
+  url = "event"
   parent = "blog-news"
   weight = 40
 
