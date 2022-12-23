@@ -28,7 +28,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "Bringing-Wiki-Projects-to-the-Andes"
+slides: ""
 ---
 
 For all generations, fundamentally young people and adults, the need to distinguish between disinformation and trustworthy content has become critical. Thus, we (WikiAndes team + [Wikimedia Foundation](https://wikimediafoundation.org/)) are implementing a Media and Information Literacy program, called **Bringing Wiki Projects to the Andes**.
