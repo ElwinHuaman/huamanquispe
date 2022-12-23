@@ -63,6 +63,12 @@
   weight = 35
 
 [[main]]
+  name = "2023 WikiAndes"
+  parent = "projects"
+  url = "project/WikiAndes"
+  weight = 36
+
+[[main]]
   name = "News"
   identifier = "blog-news"
   url = ""
