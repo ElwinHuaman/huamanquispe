@@ -19,8 +19,8 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: "content/slides/Bringing-Wiki-Projects-to-the-Andes.pdf"
+url_pdf: "media/slides/Bringing-Wiki-Projects-to-the-Andes.pdf"
+url_slides: "media/slides/Bringing-Wiki-Projects-to-the-Andes.pdf"
 url_video: ""
 
 # Slides (optional).
@@ -48,7 +48,7 @@ What:
 - Supporting learning worldwide through free knowledge projects, e.g., Reading Wikipedia in the Classroom (RWiC).
 - Reading Wikipedia in the Classroom (RWiC) is the Wikimedia Foundation’s flagship teacher training program.
 
-![Bringing Wiki Projects to the Andes](/assets/images/Bringing-Wiki-Projects-to-the-Andes-RWiC.png)
+![Bringing Wiki Projects to the Andes](/media/images/Bringing-Wiki-Projects-to-the-Andes-RWiC.png)
 
 If you’re able, we’d love it if you could make a donation. Here are the ways to support us:
 - Make a donation online at [https://paypal.me/elwinlhq](https://paypal.me/elwinlhq)
