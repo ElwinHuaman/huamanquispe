@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-For all generations, fundamentally young people and adults, the need to distinguish between disinformation and trustworthy content has become critical. Thus, we (WikiAndes team + [Wikimedia Foundation](https://wikimediafoundation.org/)) are implementing a Media and Information Literacy program, called **Bringing Wiki Projects to the Andes**.
+For all generations, fundamentally young people and adults, the need to distinguish between disinformation and trustworthy content has become critical. Thus, we (WikiAndes team + [Wikimedia Foundation](https://wikimediafoundation.org/)) are implementing a Media and Information Literacy program, called **[Bringing Wiki Projects to the Andes](media/slides/Bringing-Wiki-Projects-to-the-Andes.pdf)**.
 
 ## Why:
 - Accessing, creating or sharing content opens up a wide range of possibilities for all, as well as new risks.
