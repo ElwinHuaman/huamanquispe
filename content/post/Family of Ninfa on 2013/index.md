@@ -1,14 +1,44 @@
 ---
 title: Discover the true Quechua Culture staying with us
-date: 2021-05-23
-authors:
-- Elwin Huaman
+subtitle: Explore our culture through alpacas, potatoes, quinoa and so on by staying with us in a beautiful Quechua community.
 
-image:
-  caption: Photo by Elwin
-  focal_point: Smart
-
+# Summary for listings and search engines
 summary: Explore our culture through alpacas, potatoes, quinoa and so on by staying with us in a beautiful Quechua community.
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2021-05-23T00:00:00Z"
+
+# Date updated
+lastmod: "2021-05-24T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Elwin Huaman**](https://elwin.huamanquispe.com/)'
+  focal_point: smart
+  placement: 2
+  preview_only: false
+
+authors:
+- Elwin
+- Ayllu
+
+tags:
+- Family
+- Ayllu
+- Quechua
+
+categories:
+- Quechua 
 ---
 
 <!--more-->
