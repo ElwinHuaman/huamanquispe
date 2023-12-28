@@ -12,7 +12,7 @@ projects: []
 date: "2021-05-23T00:00:00Z"
 
 # Date updated
-lastmod: "2021-05-24T00:00:00Z"
+lastmod: "2021-06-06T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -29,7 +29,6 @@ image:
   preview_only: false
 
 authors:
-- Elwin
 - Ayllu
 
 tags:
