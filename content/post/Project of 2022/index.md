@@ -62,7 +62,7 @@ The link for supporting the projects: [paypal.me/elwinlhq](https://paypal.me/elw
 * Project: Generating structured knowledge (semantic annotations) in minority languages for the Web.
 * [ICTS for indigenous languages](https://icts-for-indigenous-languages.hackerearth.com/)
 
-![ICTS for indigenous languages](images/ICT-languages.jpg)
+![ICTS for indigenous languages](/media/images/ICT-languages.jpg)
 
 ## 4th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-22)
 * Best Project Award
@@ -70,7 +70,7 @@ The link for supporting the projects: [paypal.me/elwinlhq](https://paypal.me/elw
 * [QICHWABASE](https://qichwa.wikibase.cloud/)
 * https://datathon2022.linkeddata.es/
 
-![Dictionary LODification using Wikibase](images/qichwabase.jpg)
+![Dictionary LODification using Wikibase](/media/images/qichwabase.jpg)
 
 ## Deutsche Welle (DW) Documentary
 * Theme: Wikipedia 
