@@ -1,9 +1,9 @@
 ---
-title: "Quechua Experience"
-summary: "Quechua Experience are activities designed and led by inspiring Quechua families. They go beyond typical tourism by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about their culture, traditions, or expertise without barriers."
+title: "Illariy Chaska"
+summary: "It has the goal of empower women in the Andes of Peru. We designe and knitt collection of alpaca fibre garments that might be presented at international events."
 authors: ["ayllu"]
-tags: ["Research", "Quechua"]
-date: "2017-09-27T00:00:00Z"
+tags: ["Research", "Quechua", "Alpaca"]
+date: "2024-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,12 +30,10 @@ url_video: "https://www.youtube.com/watch?v=jAYC3BaVVR4&ab_channel=ElwinHuaman"
 slides: ""
 ---
 
-# What is Quechua Experience?
+# What is Illariy Chaska?
 
-Quechua Experiences are activities designed and led by inspiring Quechua families. They go beyond typical tourism by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about their culture, traditions, or expertise without barriers.
-Imagine if we could speed up time in the fight against climate change:
-KIPU is a knowledge engine, chatbot, web search engine and App that stores, evaluates, curates, and represents sustainable destinations.
+Illariy Chaska is an association designed and led by our family: Huaman Quispe. We provide opportunities for anyone to learn about our quechua culture, traditions, or expertise without barriers. For centuries, our lifestyle has been based on breeding alpacas and llamas, as well as cultivating potatoes, today we want to show you how we live in the Alpaca Ecosystem.
 
-We would like to invite you to be part of our true traditions by staying with us and make a positive impact on the world. For centuries, our lifestyle has been based on breeding alpacas and llamas, as well as cultivating potatoes.
+We would like to invite you to be part of our true traditions by staying with us and make a positive impact on the world. 
 
 see more in our [website](https://quechuaexperience.github.io/).
