@@ -9,10 +9,10 @@ summary: We participated and brought part of our knowledge, culture, and traditi
 projects: [Illariy]
 
 # Date published
-date: "2024-02-26T00:00:00Z"
+date: "2024-01-26T00:00:00Z"
 
 # Date updated
-lastmod: "2024-02-27T00:00:00Z"
+lastmod: "2024-01-27T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Making it happen!
+role: Quechua Family
 
 # Status emoji
 #status:
@@ -26,7 +26,7 @@ bio: Instead of imposing what the Quechua communities should learn, we ask them 
 
 interests:
 - Cultural Revitalisation
-- Digital Literacy
+- Digital Language Literacy
 - Empowering Women
 - Food Security 
 
@@ -71,6 +71,7 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+
 Instead of imposing what the Quechua communities should {{< icon name="graduation-cap" pack="fas" >}} learn, we ask them what they would like to learn or improve :white_check_mark:. We then prepare workshops focused on the topics they want to address {{< icon name="thumbs-up" pack="fas" >}} and invite {{< icon name="address-card" pack="fas" >}} experts in the field to :mountain_bicyclist: travel to the communities :sunrise_over_mountains: and share their knowledge :recycle:.
 
 ## Help us continue to do so!
