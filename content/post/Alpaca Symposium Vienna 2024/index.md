@@ -59,11 +59,9 @@ The presentation brought a relevant point of view from the quechua communities w
 
 At the end of the presentations, garments designed and knitted by my mother (Ninfa Quispe) were appreciated by the attendes, whose had the opportunity to feel connected to alpaca breeders of the Andes of Peru.
 
-# 🦙 Calling all Alpaca enthusiasts! 🦙
+# Calling all Alpaca enthusiasts!
 The symposium featured a variety of informative sessions on alpaca breeding, care, and fiber arts. FAO has declared 2024 as the International Year of Camelids. The Year will highlight how camelids are key to the livelihoods of millions of households in hostile environments across over 90 countries, particularly Indigenous Peoples and local communities. Together with the Peruvian Embassy, the evening featured interesting scientific presentations on alpaca research, Peruvian cocktails and finger food, and an exhibition of Peruvian textiles! 
 
-My presentation will verse on connecting alpacas to their roots, a missing view from the Quechua communities 🥹
-
-Don't miss out on this opportunity to learn from the experts and connect with other alpaca lovers!
+My presentation versed on connecting alpacas to their roots, a missing view from the Quechua communities 🥹 and you can learn from the experts and connect with other alpaca lovers!
 
 > Apparently, the Large Language Models, Alpaca, Llama, and Vicuña, are planning to attend the symposium this year, but they can't decide who will be giving the opening remarks. 🤣
