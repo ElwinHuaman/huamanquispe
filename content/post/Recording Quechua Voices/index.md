@@ -77,4 +77,10 @@ Your contribution, big or small, will make a significant impact on preserving th
 
 > :people_hugging: <mark>Together, let's ensure the Quechua language continues to thrive for generations to come!</mark>
 
-{{< gallery album="quechuavoices" >}}
+![Quechua Community in Nuñoa 1](/media/albums/quechuavoices/Nunoa_Puno_Peru_1.jpeg)
+
+![Quechua Community in Nuñoa 2](/media/albums/quechuavoices/Nunoa_Puno_Peru_2.jpeg)
+
+![Quechua Community in Nuñoa 3](/media/albums/quechuavoices/Nunoa_Puno_Peru_3.jpeg)
+
+![Quechua Community in Nuñoa 4](/media/albums/quechuavoices/Nunoa_Puno_Peru_4.jpeg)
