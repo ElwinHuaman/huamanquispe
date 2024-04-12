@@ -1,9 +1,9 @@
 ---
-title: Recording Voices of the Punu Quechua in Peru
-subtitle: We design a project to recording quechua language voices and make them findable, accessible, interoperable, and reusable We brought our traditions, knowledge, and culture on the breeding of alpacas.
+title: Recording Voices of the Puno Quechua in Peru
+subtitle: We design a project to recording quechua language voices and make them findable, accessible, interoperable, and reusable.
 
 # Summary for listings and search engines
-summary: The project aims to record the voices of Punu Quechua speakers (including adults and elders) and make these recordings available on the Wikimedia Ecosystem and Qichwabase.
+summary: The project aims to record the voices of Puno Quechua speakers (including adults and elders) and make these recordings available on the Wikimedia Ecosystem and Qichwabase.
 
 # Link this post with a project
 projects: [QuechuaVoices]
@@ -42,8 +42,8 @@ categories:
 ---
 
 <!--more-->
-# Help Save the Punu Quechua in Peru!
-The [Punu Quechua](https://en.wikipedia.org/wiki/Puno_Quechua), spoken by over 40% of the population in Peru's Puno region, is in danger of being lost. It's mainly used in spoken communication, with no written resources or educational resources.
+# Help Save the Puno Quechua in Peru!
+The [Puno Quechua](https://en.wikipedia.org/wiki/Puno_Quechua), spoken by over 40% of the population in Peru's Puno region, is in danger of being lost. It's mainly used in spoken communication, with no written resources or educational resources.
 
 > We are working to change that!
 
