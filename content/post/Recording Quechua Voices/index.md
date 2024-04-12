@@ -77,4 +77,4 @@ Your contribution, big or small, will make a significant impact on preserving th
 
 > :people_hugging: <mark>Together, let's ensure the Quechua language continues to thrive for generations to come!</mark>
 
-{{< gallery album="<quechuavoices>" >}}
+{{< gallery album="quechuavoices" >}}
