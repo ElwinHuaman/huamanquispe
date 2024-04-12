@@ -75,6 +75,12 @@
   weight = 37
 
 [[main]]
+  name = "2024 Quechua Voices"
+  parent = "projects"
+  url = "project/QuechuaVoices"
+  weight = 38
+
+[[main]]
   name = "News"
   identifier = "blog-news"
   url = ""
